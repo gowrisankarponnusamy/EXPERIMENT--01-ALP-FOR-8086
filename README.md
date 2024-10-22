@@ -82,8 +82,7 @@ HLT
 
 
 ## Output  
-![Screenshot 2024-08-24 134744](https://github.com/user-attachments/assets/bf20cf59-684d-4fc1-a1a7-917e3e6dcacd)
-
+![Screenshot (221)](https://github.com/user-attachments/assets/03c57062-aea4-46cd-a48b-26ceb5abd135)
 
 ## Subtraction   of 8 bit numbers  ALP 
 ```
@@ -94,8 +93,7 @@ HLT
 ```
  
 ## Output  
-![Screenshot 2024-08-24 140252](https://github.com/user-attachments/assets/5138035a-b516-424f-b89c-066d85fe8cc8)
-
+![Screenshot (222)](https://github.com/user-attachments/assets/fdf537c7-971b-4afb-89d6-3fc182bd2b3a)
 
 ## Multiplication alp 
 ```
@@ -105,9 +103,7 @@ MUL BL
 HLT
 ```
  ## Output  
-![Screenshot 2024-08-24 140703](https://github.com/user-attachments/assets/adffd023-adcd-42c4-93b1-e9aaf908a5cf)
-
-
+![Screenshot (223)](https://github.com/user-attachments/assets/b6ca29b1-dc60-4e1d-92d7-aee0604fa9f9)
 
 ## Division alp 
 ```
@@ -118,8 +114,7 @@ HLT
 ```
 
 ## Output  
-
-![Screenshot 2024-08-24 140834](https://github.com/user-attachments/assets/5c7a0509-cdab-4080-a80a-e8136c2a3015)
+![Screenshot (225)](https://github.com/user-attachments/assets/bddced79-70c5-4db2-abee-874cbb533dec)
 
 ## Programs for logical operations
 ## AND
